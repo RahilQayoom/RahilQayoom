@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hey there! I'm Rahil
 
-<!--
-**RahilQayoom/RahilQayoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student @ Islamia College of Science and Commerce Srinagar  
+📅 Class of 2026  
+🌐 Exploring Web Development & Open Source  
+💻 Currently learning: Python, JavaScript, Git, and Linux  
+🐱 Fun fact: My GitHub profile pic is a very serious developer 🐾
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### 🚀 Goals:
+- Build and share mini projects
+- Contribute to open source (eventually!)
+- Keep learning every day 💪
+
+---
+
+### 🔧 Tools I’m Using:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
