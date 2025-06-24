@@ -20,5 +20,4 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-- 📫 How to reach me: i havent decided that yet 
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahil-qayoom-95293325b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
